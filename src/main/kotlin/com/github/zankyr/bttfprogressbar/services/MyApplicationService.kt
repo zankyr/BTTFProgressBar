@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.zankyr.bttfprogressbar.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.zankyr.bttfprogressbar.MyBundle
 
 class MyApplicationService {
 

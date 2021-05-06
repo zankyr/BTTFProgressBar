@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.zankyr.bttfprogressbar.services
 
+import com.github.zankyr.bttfprogressbar.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
